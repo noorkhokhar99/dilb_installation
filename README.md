@@ -3,11 +3,11 @@
 
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/MediaPipe-Iris.git
+git clone https://github.com/noorkhokhar99/dilb_installation.git
 ```
 - Goto the cloned folder.
 ```
-cd MediaPipe-Iris
+cd dilb_installation
 
 ```
 - Upgrade pip with mentioned command below.
@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 
 ## Example Results
-![Example Results](https://github.com/noorkhokhar99/MediaPipe-Iris/blob/main/WhatsApp%20Image%202022-11-25%20at%2012.10.22%20PM.jpeg)
+![Example Results](https://github.com/noorkhokhar99/dilb_installation/blob/main/Screen%20Shot%202022-12-01%20at%2012.43.29.png)
